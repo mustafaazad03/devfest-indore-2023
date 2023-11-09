@@ -1,0 +1,16 @@
+[
+	{
+  	 "name":"JetBrains",
+      "desc":"JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA, the leading Java IDE, ...It also makes it easy for you to take care of quality during all stages of development and spend less time on maintenance tasks.",
+      "image":"jet-brains.png",
+      "socialMedia":{
+      	"instagram":"",
+        "linkedin":"https://www.linkedin.com/company/jetbrains",
+        "twitter":"https://twitter.com/jetbrains",
+        "github":"",
+        "youtube": ""
+      },
+      "links": false,
+      "website":"https://www.jetbrains.com/"
+  }
+]
